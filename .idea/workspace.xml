@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e876bd34-e253-449e-880d-a18987122e77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pWdLXAfECtdgWtzA36lrPrOQku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\develop\machine_learing\AnimeGANv2-master\tools" />
+      <recent name="E:\develop\machine_learing\AnimeGANv2-master" />
+      <recent name="E:\develop\machine_learing\AnimeGANv2-master\vgg19_weight" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\develop\machine_learing\AnimeGANv2-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.edge_smooth">
+    <configuration name="AnimeGANv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimeGANv2-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AnimeGANv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edge_smooth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimeGANv2-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/edge_smooth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimeGANv2-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimeGANv2-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video2anime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimeGANv2-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video2anime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.edge_smooth" />
+        <item itemvalue="Python.video2anime" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.AnimeGANv2" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e876bd34-e253-449e-880d-a18987122e77" name="Default Changelist" comment="" />
+      <created>1615302724222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615302724222</updated>
+      <workItem from="1615302727321" duration="5320000" />
+      <workItem from="1615308133915" duration="121000" />
+      <workItem from="1615308266163" duration="2270000" />
+      <workItem from="1615310548844" duration="1064000" />
+      <workItem from="1615311635419" duration="2275000" />
+      <workItem from="1615338995007" duration="1334000" />
+      <workItem from="1615340339134" duration="1251000" />
+      <workItem from="1615341601493" duration="5030000" />
+      <workItem from="1615349343006" duration="547000" />
+      <workItem from="1615349900299" duration="4670000" />
+      <workItem from="1615354598744" duration="318000" />
+      <workItem from="1615355044678" duration="1021000" />
+      <workItem from="1615356102890" duration="1791000" />
+      <workItem from="1615362148044" duration="7508000" />
+      <workItem from="1615451141197" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615302752282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615302752282" />
+    <state x="616" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615363942796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615363942796" />
+    <state x="633" y="215" key="FileChooserDialogImpl" timestamp="1615352418444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615352418444" />
+    <state width="1865" height="272" key="GridCell.Tab.0.bottom" timestamp="1615389355195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615389355195" />
+    <state width="1865" height="272" key="GridCell.Tab.0.center" timestamp="1615389355195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615389355195" />
+    <state width="1865" height="272" key="GridCell.Tab.0.left" timestamp="1615389355195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615389355195" />
+    <state width="1865" height="272" key="GridCell.Tab.0.right" timestamp="1615389355195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615389355195" />
+    <state x="263" y="86" width="1260" height="883" key="SettingsEditor" timestamp="1615362250161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="263" y="86" width="1260" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615362250161" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1615451444883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615451444883" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1615345388407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1615345388407" />
+    <state x="544" y="8" width="831" height="1023" key="find.popup" timestamp="1615303398853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="8" width="831" height="1023" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615303398853" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$vgg19.coverage" NAME="vgg19 Coverage Results" MODIFIED="1615343585308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$test.coverage" NAME="test Coverage Results" MODIFIED="1615361961065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$data_mean__1_.coverage" NAME="data_mean (1) Coverage Results" MODIFIED="1615361619369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$data_mean.coverage" NAME="data_mean Coverage Results" MODIFIED="1615303607821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$edge_smooth.coverage" NAME="edge_smooth Coverage Results" MODIFIED="1615364044096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$ops.coverage" NAME="ops Coverage Results" MODIFIED="1615308756675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$AnimeGANv2.coverage" NAME="AnimeGANv2 Coverage Results" MODIFIED="1615361954715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$edge_smooth__1_.coverage" NAME="edge_smooth (1) Coverage Results" MODIFIED="1615361560868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$npyio.coverage" NAME="npyio Coverage Results" MODIFIED="1615343608296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/ProgramData/Anaconda3/envs/AnimeGANv2-master/Lib/site-packages/numpy/lib" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$main.coverage" NAME="main Coverage Results" MODIFIED="1615361933203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnimeGANv2_master$video2anime.coverage" NAME="video2anime Coverage Results" MODIFIED="1615361968149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
